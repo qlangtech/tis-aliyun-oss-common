@@ -1,0 +1,4 @@
+endpoint=http://xxxxx-hangzhou.aliyuncs.com
+accessKey=test_accessKey
+secretKey=test_secretKey
+bucketName=test_bucketName_123
